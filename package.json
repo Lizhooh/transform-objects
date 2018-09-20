@@ -1,0 +1,15 @@
+{
+  "name": "transform-objects",
+  "version": "1.0.0",
+  "description": "transform-objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "lizhooh",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
