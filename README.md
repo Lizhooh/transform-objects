@@ -1,10 +1,15 @@
 
 ## transform-objects
+通过模型更改对象的键。
 Change the key of the object through the model.
 
+### Installation
 ```js
 yarn add transform-objects
 ```
+
+
+### Usage
 
 ```js
 const transformObjects = require('./');
@@ -93,4 +98,13 @@ user: {
 }
 ```
 
+### Test
+
+```js
+git clone https://github.com/Lizhooh/transform-objects.git
+cd transform-objects
+npm install
+
+npm run test
+```
 
